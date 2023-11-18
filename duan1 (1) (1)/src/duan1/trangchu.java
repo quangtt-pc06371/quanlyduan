@@ -655,6 +655,7 @@ public class trangchu extends javax.swing.JFrame {
             public void run() {
                 new trangchu().setVisible(true);
                 System.out.println("ssadsadssss");
+
             }
         });
     }
